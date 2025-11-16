@@ -6,7 +6,7 @@
 
 AI Task Planner is a full-stack productivity web app that integrates AI (OpenAI) for smart task scheduling suggestions. 
 Users can manage tasks with CRUD operations, visualize them on a calendar, view completion analytics via charts, and receive email reminders for due tasks. 
-The app features responsive design with dark/light theme toggle, and it's built for personal use (no JWT—userId passed in paths).
+The app features responsive design with dark/light theme toggle (no JWT—userId passed in paths).
 
 
 **Application Screenshots** : https://github.com/kiranc2001/task-planner-backend/tree/main/screenshots
@@ -83,7 +83,7 @@ IntelliJ IDEA (backend), VS Code (frontend with ESLint/Prettier extensions).
 - PgAdmin (PostgreSQL): Connect to localhost:5432 (user: root, pass: yourpassword).
 - Run:
   ```sql
-  CREATE DATABASE task_planner_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+  CREATE DATABASE task_planner_db;
   ```
 - Tables auto-create on startup (JPA `ddl-auto=update`).
 
@@ -257,7 +257,7 @@ Logout: Clears storage, redirects to login.
 
 **Email**: kirangowda0212@gmail.com
 
-**LinkedIn*: https://github.com/kiranc2001/task-planner-backend
+**LinkedIn**: https://github.com/kiranc2001/task-planner-backend
 
 
 Run the App: Backend (IntelliJ) > Frontend (`npm start`) > Test flow. Enjoy your **AI Task Planner!** 🚀
