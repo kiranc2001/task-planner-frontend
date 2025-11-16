@@ -2,30 +2,30 @@
 
 # AI Task Planner
 
-** Overview **
+**Overview**
 AI Task Planner is a full-stack productivity web app that integrates AI (OpenAI) for smart task scheduling suggestions. 
 Users can manage tasks with CRUD operations, visualize them on a calendar, view completion analytics via charts, and receive email reminders for due tasks. 
 The app features responsive design with dark/light theme toggle, and it's built for personal use (no JWT—userId passed in paths).
 
 
-Application Screenshots : https://github.com/kiranc2001/task-planner-backend/tree/main/screenshots
+**Application Screenshots** : https://github.com/kiranc2001/task-planner-backend/tree/main/screenshots
 
 
-Frontend Github Repo : Current repo
+**Frontend Github Repo** : Current repo
 
-Backend Github Repo: https://github.com/kiranc2001/task-planner-backend
-
-
+**Backend Github Repo**: https://github.com/kiranc2001/task-planner-backend
 
 
 
-For more detailed explaination:
+
+
+**For more detailed explaination**:
 
 Medium : https://medium.com/@kirangowda0212/building-an-ai-powered-task-planner-a-full-stack-journey-with-spring-boot-react-and-openai-e4a7acb4a8d4
 
 
 
-Key Features:
+## Key Features:
 
 Authentication: Signup, signin, forgot password with OTP email, password reset.
 
