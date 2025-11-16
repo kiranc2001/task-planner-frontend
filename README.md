@@ -9,7 +9,7 @@ Users can manage tasks with CRUD operations, visualize them on a calendar, view 
 The app features responsive design with dark/light theme toggle (no JWT—userId passed in paths).
 
 
-**Application Screenshots** : https://github.com/kiranc2001/task-planner-backend/tree/main/screenshots
+**Application Screenshots** : https://github.com/kiranc2001/task-planner-frontend/tree/main/screenshots
 
 
 **Frontend Github Repo** : Current repo
