@@ -257,7 +257,7 @@ Logout: Clears storage, redirects to login.
 
 **Email**: kirangowda0212@gmail.com
 
-**LinkedIn**: https://github.com/kiranc2001/task-planner-backend
+**LinkedIn**: https://www.linkedin.com/in/kiran-c-gowda-2507021b9/
 
 
 Run the App: Backend (IntelliJ) > Frontend (`npm start`) > Test flow. Enjoy your **AI Task Planner!** 🚀
